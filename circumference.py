@@ -5,7 +5,7 @@
 # This program calculates circumference of a circle
 #    with user input
 
-import math
+
 import constants
 
 
